@@ -1,11 +1,11 @@
-﻿Imports System.Diagnostics
+Imports System.Diagnostics
 Public Class Form1
 
     ' Motivation Configuration [https://github.com/jeonnotcool/Motivation]
     ' You may configure anything you want.
     ' Written in Visual Basic .NET
 
-    Dim ShutdownTime As Integer = 100 ' After showing the shutdown message, shutdown pc.
+    Dim ShutdownTime As Integer = 2 ' After showing the shutdown message, shutdown pc.
     Dim ShutdownMessage As String = "Goodbye"
     Dim NotificationTitle As String = "Itulog mo nalang ang iyong problema"
     Dim NotificationMessage As String = "Motivation message"
